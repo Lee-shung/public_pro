@@ -1,6 +1,6 @@
 # public_expense
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
